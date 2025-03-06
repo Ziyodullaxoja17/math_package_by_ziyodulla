@@ -18,4 +18,8 @@ All notable changes to this project will be documented here.
 - Included unit tests for all functions.
 - Added an example file demonstrating usage of the package.
 
+## [1.0.1] - Description update
+### Added
+- Description
+
 ---

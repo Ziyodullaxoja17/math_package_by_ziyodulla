@@ -1,6 +1,6 @@
 name: math_package_by_ziyodulla
 description: A useful Dart library for mathematical operations, providing a wide range of functions and utilities to perform complex calculations, algebraic operations, and more. Ideal for developers looking to enhance their applications with robust mathematical capabilities.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/Ziyodullaxoja17/math_package_by_ziyodulla.git  # GitHub yoki boshqa repo havolasi
 
 environment:
