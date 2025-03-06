@@ -1,4 +1,4 @@
-import 'lib/math_package_by_ziyodulla.dart';
+import '../lib/math_package_by_ziyodulla.dart';
 
 void main() {
   print(add(5, 3)); // Output: 8

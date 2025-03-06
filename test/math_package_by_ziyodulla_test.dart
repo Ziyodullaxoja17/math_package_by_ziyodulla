@@ -1,4 +1,4 @@
-import '../example/lib/math_package_by_ziyodulla.dart';
+import '../lib/math_package_by_ziyodulla.dart';
 import 'package:test/test.dart';
 
 void main() {

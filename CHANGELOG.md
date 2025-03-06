@@ -22,4 +22,8 @@ All notable changes to this project will be documented here.
 ### Added
 - Description
 
+## [1.0.2] - Description update
+### Added
+- Change the order 
+
 ---
